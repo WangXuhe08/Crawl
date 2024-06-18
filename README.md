@@ -9,7 +9,7 @@ My Crawler Collection
 
 **4.花瓣网 https://huaban.com/**  
 
-**5.酷我 https://music.163.com/discover/playlist/**  
+**5.网易云 https://music.163.com/discover/playlist/**  
 
 ## 这个库的代码都是我平时练手的结果 只做收藏
 ### 因为时效性等原因,并不适合上手就用
