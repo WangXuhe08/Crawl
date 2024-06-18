@@ -1,0 +1,13 @@
+1665495834944	geckodriver	INFO	Listening on 127.0.0.1:33790
+1665495838023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--proxy-server=localhost:8145" "--hide-scrollbars" "blink-settings=imagesEnabled=false" "--headless" "--remote-debugging-port" "33791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUPER\'~1\\AppData\\Local\\Temp\\rust_mozprofileRLG756"
+*** You are running in headless mode.
+1665495838292	Marionette	INFO	Marionette enabled
+1665495838295	Marionette	INFO	Listening on port 33804
+WebDriver BiDi listening on ws://127.0.0.1:33791
+Read port: 33804
+1665495838454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUPER'~1\\AppData\\Local\\Temp\\rust_mozprofileRLG756\\search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 137: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+DevTools listening on ws://127.0.0.1:33791/devtools/browser/ffc289cc-93ff-42ce-843b-750abd8f2171
